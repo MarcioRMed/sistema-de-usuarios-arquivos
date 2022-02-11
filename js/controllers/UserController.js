@@ -1,6 +1,6 @@
 class UserController{
     constructor(){
-        console.log('UserController foi instanciada');
+        
 
         // this.addEventBtns();
         // this.users = {}
