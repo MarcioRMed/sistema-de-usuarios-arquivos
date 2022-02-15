@@ -12,7 +12,7 @@ class User{
         this._admin = admin
         this._password = password
         let date = new Date()
-        this._date = date.toLocaleDateString('pt-BR')+'   '+ date.toLocaleTimeString('pt-Br').slice(0,5) //inicia o corte da data 0 e vai ate 5 caracteres
+        this._date = date.toLocaleDateString('pt-BR')+'   '+ date.toLocaleTimeString('pt-Br').slice(0,5); //inicia o corte da data 0 e vai ate 5 caracteres
     }
 
 getId(){
