@@ -181,12 +181,8 @@ class UserController {
     })
   }
 
-
-
-
   //erro no mintuo do video 19
   //erro em 22:50min
-
 
   addEventBtns() {
 
