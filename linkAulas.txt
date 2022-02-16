@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=jGhRmAvDqnk&list=PLZO_SqCI6cXaVQCwpI4UfjcuMvRRjzkEK&index=1&ab_channel=Overstack
+
+
+Neste vídeo vamos mostrar a aplicação finalizada e dar os primeiros passos na criação do projeto.
+
+✔ ÍNDICE:
+0:00 | Introdução
+0:14 | Apresentação do projeto
+2:42 | Apresentando a pasta de arquivos do layout (disponibilizada abaixo)
+2:56 | Criando primeiros arquivos Javascript
+7:40 | Criando primeiro método addEventListenner
+
+O principal objetivo deste vídeo é mostrar os principais recursos que podemos utilizar do Javascript para criar sistemas com:
+Área de login com autenticação por usuário e senha;
+Lista de usuários manipulada pelo Javascript
+CRUD completo incluindo imagem do usuário
+Utilização de Orientação a Objetos
+
+Para replicar este projeto você pode utilizar suas próprias imagens, ou utilizar as imagens deste exemplo, basta baixa-las no repositório (Link nas referências).
+
+✔ REFERÊNCIAS: 
+VS Code: https://code.visualstudio.com/
+Repositório Git: https://github.com/overstack-oficial/...
+PlayList completa: https://www.youtube.com/playlist?list...
+
+✔ REDES SOCIAIS: 
+Instagram: https://www.instagram.com/overstack.o...
+Linkedin: https://www.linkedin.com/company/over...
+Facebook: https://facebook.com/overstack.tech
+Youtube: https://www.youtube.com/channel/UCr9L...
+Twitch: https://www.twitch.tv/overstack_oficial
